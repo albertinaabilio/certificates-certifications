@@ -23,7 +23,7 @@ Biomedical Engineering, BEng (University College London)
 - Code First Girls, [Uni Kickstarter (Web Dev - HTML, CSS, Javascript)](https://codefirstgirls.com/courses/classes/uni-kickstarter/)
 ## Software
 - Microsoft Office
-- [MATLAB](https://www.linkedin.com/skill-assessments/MATLAB/report/)
+- MATLAB
 - Autodesk Fusion 360 (3D Modelling & CAD)
 - Audacity (Audio)
 - Ableton (Music Production)
