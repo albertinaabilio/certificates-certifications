@@ -15,8 +15,8 @@ Biomedical Engineering, BEng (University College London)
 - Angular JS
 
 ## Training & Courseworks
-* Financial Edge, [#100BlackInterns - Investment Management Track](https://www.credential.net/1d0e4511-fe42-4e2e-851b-f4e707018c80#gs.3if18l)
--- Accenture, [Virtual Experience Program Participant at Accenture](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture/MD2p8dDih7zoQ9KRC_Accenture_E99eGzMz3r47eCX4S_completion_certificate.pdf)
+- Financial Edge, [#100BlackInterns - Investment Management Track](https://www.credential.net/1d0e4511-fe42-4e2e-851b-f4e707018c80#gs.3if18l)
+- Accenture, [Virtual Experience Program Participant at Accenture](https://insidesherpa.s3.amazonaws.com/completion-certificates/Accenture/MD2p8dDih7zoQ9KRC_Accenture_E99eGzMz3r47eCX4S_completion_certificate.pdf)
 - SoloLearn, [Python Core](https://www.sololearn.com/certificates/course/en/1315468/1073/landscape/png)
 
 ## Software
