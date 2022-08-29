@@ -15,6 +15,7 @@ Biomedical Engineering, BEng (University College London)
 - SoloLearn, [Python Core](https://www.sololearn.com/certificates/course/en/1315468/1073/landscape/png)
 - AmigosCode, [Git and GitHub Essentials](https://amigoscode.com/courses/1317178/certificate?certificate_first_issued=true)
 - Code First Girls, [Uni Kickstarter (Web Dev - HTML, CSS, Javascript)](https://codefirstgirls.com/courses/classes/uni-kickstarter/)
+- Royal Academy of Engineering, [Graduate Engineering Engagement Programme] (https://1drv.ms/b/s!ApyiEYWZi6xQg7glgLblgmzmBMp_4g?e=E01fwv)
 ## Software
 - Jira
 - Microsoft Office
