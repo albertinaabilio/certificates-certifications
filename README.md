@@ -21,7 +21,10 @@ Biomedical Engineering, BEng (University College London)
 - SoloLearn, [Python Core](https://www.sololearn.com/certificates/course/en/1315468/1073/landscape/png)
 - AmigosCode, [Git and GitHub Essentials](https://amigoscode.com/courses/1317178/certificate?certificate_first_issued=true)
 - Code First Girls, [Uni Kickstarter (Web Dev - HTML, CSS, Javascript)](https://codefirstgirls.com/courses/classes/uni-kickstarter/)
-## Software
+## Software & Languages
+- Scala 
+- Java
+- Jira
 - Microsoft Office
 - MATLAB
 - Autodesk Fusion 360 (3D Modelling & CAD)
