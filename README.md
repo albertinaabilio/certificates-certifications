@@ -6,7 +6,8 @@ Biomedical Engineering, BEng (University College London)
 
 ## Languages & Frameworks
 - Java
-- Scala
+- SQL
+- Python
 
 ## Training & Courses
 - Financial Edge, [#100BlackInterns - Investment Management Track](https://www.credential.net/1d0e4511-fe42-4e2e-851b-f4e707018c80#gs.3if18l)
